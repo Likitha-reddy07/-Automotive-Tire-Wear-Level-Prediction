@@ -17,10 +17,15 @@ This project demonstrates a complete workflow for predicting tire wear levels us
 🧩 Project Structure
 
 app.py – Streamlit dashboard for making predictions
+
 train_model.py – Trains the ML model and saves it to model
+
 dataset_generator.py – Generates tire_wear_dataset.csv dataset
+
 dataset – Contains the generated dataset
+
 model – Saved trained model artifacts and metada
+
 ## How to Run
 
 ### Step 1: Install requirements
