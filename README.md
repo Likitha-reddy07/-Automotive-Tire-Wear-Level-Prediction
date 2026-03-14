@@ -7,8 +7,11 @@ This project demonstrates a complete workflow for predicting tire wear levels us
 🔍 Key Features
 
 ✅ Synthetic tire wear dataset generation (CSV output)
+
 ✅ Random Forest regression model training and serialization
+
 ✅ Streamlit-based web app for live wear prediction
+
 ✅ Reproducible pipeline with minimal setup
 
 🧩 Project Structure
